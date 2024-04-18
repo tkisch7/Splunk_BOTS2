@@ -26,7 +26,7 @@ Since we are looking for the competitor’s site, we can use some of the fields 
 <br />
 <br />
 Since we know that Amber works in the beer industry, we can try this as a key word. We now know that the competitor’s site is www[.]berkbeer[.]com.: <br/>
-<img src="https://imgur.com/a/HvAyGpe.png" height="80%" width="80%" alt="Splunk Searching Steps"/>
+<img src="https://imgur.com/nDEni3W.png" height="80%" width="80%" alt="Splunk Searching Steps"/>
 <br />
 <br />
 We know that Amber had found the Executives contact information let’s look for the image that displayed the contact information. Using what we have so far, we can investigate the URI_path field and see all the images.:  <br/>
