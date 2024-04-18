@@ -42,7 +42,7 @@ In this lab, we are assuming the persona of Alice Bluebird, the analyst who succ
 <img src="https://imgur.com/rPbzOFK.png" height="80%" width="80%" alt="Splunk Searching Steps"/><br />
 <br />
 7. We want to see the name of the file attachment that Amber sent to the competitors. After looking at all the emails that were sent, we can see one has attachments included.:  <br/>
-<img src="https://imgur.com/undefined.png" height="80%" width="80%" alt="Splunk Searching Steps"/><br />
+<img src="https://imgur.com/Lyn7iWZ.png" height="80%" width="80%" alt="Splunk Searching Steps"/><br />
 <br />
 8. We also see that the competitors have asked for Amber to provide a personal email. Trying to look through the last message I noticed that the email is encoded in base64. And after throwing this into cyber chef we can very easily see what Ambers's personal email is.:  <br/>
 <img src="https://imgur.com/23ma72V.png" height="80%" width="80%" alt="Splunk Searching Steps"/>
