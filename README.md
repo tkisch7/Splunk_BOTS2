@@ -18,7 +18,7 @@ In this lab, we are assuming the persona of Alice Bluebird, the analyst who succ
 
 <p align="center">
 The first objective is to find out what Amber’s IP address is by searching for a string that matches Amber with the Pan traffic source type: 10[.]0[.]2[.]101: <br/>
-<img src="https://imgur.com/TCtCH8x" height="80%" width="80%" alt="Splunk Searching Steps"/>
+<img src="https://imgur.com/TCtCH8x.png" height="80%" width="80%" alt="Splunk Searching Steps"/>
 <br />
 <br />
 Since we are looking for the competitor’s site, we can use some of the fields to help us narrow down the options. Here we created a table and removed duplicates.:  <br/>
