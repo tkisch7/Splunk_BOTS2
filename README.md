@@ -22,15 +22,15 @@ The first objective is to find out what Amber’s IP address is by searching for
 <br />
 <br />
 Since we are looking for the competitor’s site, we can use some of the fields to help us narrow down the options. Here we created a table and removed duplicates.:  <br/>
-<img src="https://imgur.com/umJILdL" height="80%" width="80%" alt="Splunk Searching Steps"/>
+<img src="https://imgur.com/umJILdL.png" height="80%" width="80%" alt="Splunk Searching Steps"/>
 <br />
 <br />
 Since we know that Amber works in the beer industry, we can try this as a key word. We now know that the competitor’s site is www[.]berkbeer[.]com.: <br/>
-<img src="https://imgur.com/a/HvAyGpe" height="80%" width="80%" alt="Splunk Searching Steps"/>
+<img src="https://imgur.com/a/HvAyGpe.png" height="80%" width="80%" alt="Splunk Searching Steps"/>
 <br />
 <br />
 We know that Amber had found the Executives contact information let’s look for the image that displayed the contact information. Using what we have so far, we can investigate the URI_path field and see all the images.:  <br/>
-<img src="https://imgur.com/6EXeDx2" height="80%" width="80%" alt="Splunk Searching Steps"/>
+<img src="https://imgur.com/6EXeDx2.png" height="80%" width="80%" alt="Splunk Searching Steps"/>
 </p>
 
 <!--
