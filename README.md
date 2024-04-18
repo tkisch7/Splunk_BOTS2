@@ -9,7 +9,7 @@ In this lab, we are assuming the persona of Alice Bluebird, the analyst who succ
 
 - <b>Splunk</b> 
 - <b>SPL</b>
-- <b>Virsu Total</b>
+- <b>Virus Total</b>
 - <b>CyberChef</b>
 
 <h2>Environments Used </h2>
